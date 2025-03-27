@@ -1,0 +1,9 @@
+streamlit
+flask  
+flask-cors
+google-generativeai
+pdfplumber 
+python-dotenv
+plotly
+pandas
+pillow
