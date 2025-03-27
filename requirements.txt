@@ -1,9 +1,9 @@
-streamlit
-flask  
+flask
 flask-cors
 google-generativeai
-pdfplumber 
+pdfplumber
 python-dotenv
+streamlit
 plotly
 pandas
 pillow
